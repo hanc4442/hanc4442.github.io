@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap:https://hanc4442.github.io/sitemap.xml
